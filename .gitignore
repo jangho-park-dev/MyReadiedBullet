@@ -58,6 +58,7 @@ Engine/
 *.log
 *.tmp
 *.vspscc
+server/.vs/
 
 # Compiled Object / Static / Dynamic libs
 *.slo
